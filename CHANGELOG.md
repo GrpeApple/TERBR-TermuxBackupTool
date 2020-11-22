@@ -9,6 +9,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
     Author: MrAlpha786     (github/MrAlpha786)
 
 ## Changelog
+<!--- Change Version Number --->
 ## (Version Number)
 * Check if storage exists instead everytime the script runs.
 * Backup and restore the directory "files" in order to backup subdirectories.
