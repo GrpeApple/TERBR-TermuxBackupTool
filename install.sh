@@ -1,4 +1,4 @@
-#!/data/data/com.termux/files/files/usr/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 
 # TERBR v3.2 - Termux Backup/Restore Tool
 # Copyright (C) 2020  MrAlpha786
