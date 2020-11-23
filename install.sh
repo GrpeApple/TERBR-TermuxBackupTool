@@ -22,13 +22,24 @@
 # Author: MrAlpha786     (github/MrAlpha786)
 #
 stty -echo
+#colors
+R='\033[1;31m'
+B='\033[1;34m'
+C='\033[0;36m'
+G='\033[1;32m'
+W='\033[1;37m'
+Y='\033[1;33m'
+N='\033[0m'
+UP='\u001b[3A'
+A='\u001b[2A'
 banner () {
     clear
     echo
     echo -e $B" ┌───────────────────────┐ "
-    echo -e $B" │$C    INSTALLATION         $B│"
+    echo -e $B" │$C     INSTALLATION      $B│"
     echo -e $B" └───────────────────────┘ "
     echo -e $R"  -> MrAlpha786 $N"
     echo
 }
+banner
 stty echo
